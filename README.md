@@ -10,7 +10,7 @@
 
 **Kaggle competition:** <https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground>
 
-**Current Kaggle score:** μ = 600.0 — initial rating after the validation episode (13 Nov 2026, 21:15 TRT); it changes as ladder games are played. Submission 1: heuristic baseline + sample deck, screenshot in `submissions/`.
+**Current Kaggle score:** μ = **394.7** (13 Nov 2026, 22:25 TRT; started at 600.0, leaderboard #1 ≈ 1,589). Submission 1: heuristic baseline + sample deck, screenshot in `submissions/assignment1_score.png`. The rating keeps changing as ladder games are played.
 
 ## The problem in one paragraph
 
