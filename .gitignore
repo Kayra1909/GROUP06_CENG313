@@ -1,0 +1,19 @@
+# competition data (never commit) and generated Kaggle bundle
+data/
+build/
+*.tar.gz
+*.zip
+
+# python / jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
